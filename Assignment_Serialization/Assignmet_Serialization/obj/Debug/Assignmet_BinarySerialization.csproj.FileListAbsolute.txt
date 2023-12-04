@@ -1,0 +1,14 @@
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_Serialization\Assignmet_Serialization\bin\Debug\Assignmet_Serialization.exe.config
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_Serialization\Assignmet_Serialization\bin\Debug\Assignmet_Serialization.exe
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_Serialization\Assignmet_Serialization\bin\Debug\Assignmet_Serialization.pdb
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_Serialization\Assignmet_Serialization\obj\Debug\Assignmet_BinarySerialization.csproj.AssemblyReference.cache
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_Serialization\Assignmet_Serialization\obj\Debug\Assignmet_BinarySerialization.csproj.CoreCompileInputs.cache
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_Serialization\Assignmet_Serialization\obj\Debug\Assignmet_Serialization.exe
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_Serialization\Assignmet_Serialization\obj\Debug\Assignmet_Serialization.pdb
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_BinarySerialization\Assignmet_Serialization\bin\Debug\Assignmet_Serialization.exe.config
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_BinarySerialization\Assignmet_Serialization\bin\Debug\Assignmet_Serialization.exe
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_BinarySerialization\Assignmet_Serialization\bin\Debug\Assignmet_Serialization.pdb
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_BinarySerialization\Assignmet_Serialization\obj\Debug\Assignmet_BinarySerialization.csproj.AssemblyReference.cache
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_BinarySerialization\Assignmet_Serialization\obj\Debug\Assignmet_BinarySerialization.csproj.CoreCompileInputs.cache
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_BinarySerialization\Assignmet_Serialization\obj\Debug\Assignmet_Serialization.exe
+E:\Mphasis_LVC\Day21\Assignment\Assignmet_BinarySerialization\Assignmet_Serialization\obj\Debug\Assignmet_Serialization.pdb
